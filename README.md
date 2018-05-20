@@ -15,6 +15,7 @@
 
 1. [简体中文版本 by @carlleton](https://github.com/carlleton/reactjs101/tree/zh-CN)
 2. [前端圈简体中文版本 by @blueflylin]( https://github.com/blueflylin/reactjs101) [特別感謝前端圈小夥伴！](http://fequan.com/)
+3. [英文版本 English version by @sycherng](https://github.com/sycherng/reactjs101/tree/en-US) 
 
 
 若需翻譯成其他語言版本，請先 `fork` 一份 `repo` 到自己的 GitHub 並另外開新的 `branch`。最後將翻譯版本連結更新在 `master` 分支中 `README.md` 的 `相關連結（Links）` 後發送 `Pull Request`，謝謝您。
